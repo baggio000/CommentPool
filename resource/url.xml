@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<urls>
+	<sina>
+		<property type="news" url="http://news.sina.com.cn" />
+		<property type="sports" url="http://sports.sina.com.cn" />
+		<property type="ent" url="http://ent.sina.com.cn" />
+		<property type="tech" url="http://tech.sina.com.cn" />
+		<property type="finance" url="http://finance.sina.com.cn" />
+	</sina>
+</urls>
