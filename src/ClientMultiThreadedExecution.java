@@ -38,7 +38,6 @@ import org.apache.http.protocol.BasicHttpContext;
 import org.apache.http.protocol.HttpContext;
 import org.apache.http.util.EntityUtils;
 
-import cp.server.app.CommentThreadSeperatedList;
 import cp.server.common.NewsType;
 import cp.server.common.Page;
 import cp.server.common.SourceType;
